@@ -1,0 +1,16 @@
+{
+    "name": "first-project/app",
+    "type": "projict",
+    "autoload": {
+        "psr-4": {
+            "FirstProject\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eroshina aa"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
